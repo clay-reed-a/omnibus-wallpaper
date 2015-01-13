@@ -2,17 +2,3 @@
   margin: 0;
   padding: 0;
 }
-
-#wallpaper {
-  display: block;
-}
-
-html, 
-body,
-#wallpaper {
-  width: 100%;
-  width: 100vw;
-  height: 100%;
-  height: 100vh;
-}
-
